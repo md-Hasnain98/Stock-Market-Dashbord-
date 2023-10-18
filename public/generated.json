@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "hashtag": "#1",
+    "name": "Polo blue T-shirt",
+    "price": 25.4,
+    "sell": "3.82k"
+  },
+  {
+    "id": 2,
+    "hashtag": "#2",
+    "name": "Hoodie for men",
+    "price": 24.5,
+    "sell": "3.14k"
+  },
+  {
+    "id": 3,
+    "hashtag": "#3",
+    "name": "Red color cap",
+    "price": 22.5,
+    "sell": "2.84k"
+  },
+  {
+    "id": 4,
+    "hashtag": "#4",
+    "name": "Pocket T-shirt",
+    "price": 20.5,
+    "sell": "2.06k"
+  }
+]
